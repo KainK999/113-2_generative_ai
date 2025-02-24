@@ -1,4 +1,4 @@
-# 114-2_generative_ai
+# 113-2_generative_ai
 姓名：牛駿凱
 
 系級：電機 114
