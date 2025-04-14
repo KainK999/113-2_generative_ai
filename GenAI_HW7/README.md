@@ -4,6 +4,7 @@
 使用ollama中的"qwen2.5"
 !ollama pull qwen2.5
 3. Demo:
+
    Prompt1: 為了今天的考試準備了很久，卻因為考到一半忘記公式，不開心
    Prompt2: 下一次我可不可以表現得更好
    System的更新:
