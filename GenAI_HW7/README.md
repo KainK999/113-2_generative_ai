@@ -1,6 +1,7 @@
 # 第七週作業: 用 Ollama 打造「對話機器人」
 1. Colab連結: [https://colab.research.google.com/github/KainK999/113-2_generative_ai/blob/main/GenAI_HW6.ipynb](https://colab.research.google.com/drive/1tXURicd_mzsqA_muBzZk5sIEeK1Iwysq#scrollTo=RACuI7baNspA)
 2. 重點說明: 基於 Qwen2.5-chat 模型打造的本地化對話機器人，具備自然語言理解與中文優化能力。他扮演一位「毒舌但暖心」的健身教練角色，透過激將法與嘴砲式鼓勵，幫助使用者保持訓練動力，同時不傷自尊。支援短句互動，語氣像台灣朋友日常互嘴，適合用於提升健身動力與自我對話引導。
+
 使用ollama中的"qwen2.5"
 !ollama pull qwen2.5
 3. Demo:
